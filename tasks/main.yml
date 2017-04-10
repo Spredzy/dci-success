@@ -1,0 +1,3 @@
+---
+- name: Echo success
+  shell: echo 'success'
